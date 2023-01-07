@@ -6,7 +6,7 @@
     <enableNativeBrowserForAuthOnAndroid>false</enableNativeBrowserForAuthOnAndroid>
     <enableNativeBrowserForAuthOnIos>false</enableNativeBrowserForAuthOnIos>
     <logRedirections>false</logRedirections>
-    <myDomainName>customization-force-8495</myDomainName>
+    <myDomainName>customization-java-361</myDomainName>
     <myDomainSuffix>MySalesforce</myDomainSuffix>
     <redirectForceComSiteUrls>true</redirectForceComSiteUrls>
     <redirectPriorMyDomain>true</redirectPriorMyDomain>

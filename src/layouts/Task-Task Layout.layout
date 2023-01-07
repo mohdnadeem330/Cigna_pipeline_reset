@@ -151,6 +151,9 @@
             <quickActionName>FeedItem.ContentPost</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
+            <quickActionName>FeedItem.LinkPost</quickActionName>
+        </quickActionListItems>
+        <quickActionListItems>
             <quickActionName>FeedItem.PollPost</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
@@ -173,9 +176,6 @@
         </quickActionListItems>
         <quickActionListItems>
             <quickActionName>Task.UpdatePriority</quickActionName>
-        </quickActionListItems>
-        <quickActionListItems>
-            <quickActionName>FeedItem.LinkPost</quickActionName>
         </quickActionListItems>
     </quickActionList>
     <relatedContent>
